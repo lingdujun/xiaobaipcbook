@@ -1,6 +1,6 @@
 # Summary
 
-* [前言](README.md)
+* [小白的电脑指导书](README.md)
 * [第一章：硬盘与分区操作](chapter1.md)
 * [第二章：核心硬件简介](111.md)
 * [第三章：固件](di-si-zhang-ff1a-gu-jian.md)
