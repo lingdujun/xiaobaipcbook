@@ -8,8 +8,8 @@
 * 第五章：windows系统安装
 * 第六章：windows蓝屏错误
 * 第七章：windows系统调试
-* 第八章：windows10带来的变化
-* 第九章：自由软件与GNU/Linux
+* 第八章：windows10
+* 第九章：GNU/Linux
 * [第十章：Mac与Mac OS](di-shi-zhang-ff1a-mac-yu-mac-os-x.md)
 * 第十一章：非x86平台简介
 
